@@ -42,7 +42,7 @@ function App() {
                   <br />
                   {endpoints[index]}
                 </th>
-                <td>{JSON.stringify(item)}</td>
+                <td>{JSON.stringify(item, null, 2)}</td>
               </tr>
             ))
           ) : (
