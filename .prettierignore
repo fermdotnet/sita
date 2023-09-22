@@ -1,0 +1,10 @@
+dist/
+node_modules
+package.json
+.github
+.husky
+README.md
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
+.eslintrc.json
