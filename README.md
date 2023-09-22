@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# React + Jest + TypeScript + Vite
 
 This project is built using React and Vite, with TypeScript for type safety and Jest for testing. Husky is used to manage pre-commit hooks, and ESLint along with Prettier is used for linting and code formatting.
 
